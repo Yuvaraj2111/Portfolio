@@ -1,6 +1,6 @@
 # React Nice Resume :page_with_curl:
 
-### [LIVE DEMO](https://www.yuvaraj2111.github.io/Portfolio/)
+### [LIVE DEMO](https://yuvaraj2111.github.io/Portfolio)
 
 # Run Project
 ### 1. Clone the project
