@@ -1,0 +1,171 @@
+{
+    "main": {
+        "name": "Yuvaraj T",
+        "description": "I am a MCA student at Anna University Chennai.I am a front end developer and I use react and react-native to develop pages.",
+        "image": "profilepic.jpg",
+        "bio": "I am front end developer.I have a good hands on  React,React Native and Python Django",
+        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+        "email": "uv.yuvaraj21@gmail.com",
+        "phone": "+91 9551138588",
+        "github": "https://github.com/Yuvaraj2111",
+        "project": "https://github.com/Yuvaraj2111?tab=repositories",
+        "address": {
+            "street": "No:17/12,3rd Street,Thazhangkuppam,Ennore",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "zip": "600057"
+        },
+        "website": "https://github.com/Yuvaraj2111",
+        "resumedownload": "https://github.com/Yuvaraj2111",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/yuvi.uv.9237",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "twitter",
+                "url": "https://twitter.com/uv121yuvaraj",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/yuvaraj-t-ba4785201/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/_call_me_uv/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/Yuvaraj2111",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "",
+        "education": [
+            {
+                "school": "College of Engineering Guindy ,Anna University",
+                "degree": "Masters of Computer Applications - 8.34 CGPA",
+                "graduated": "Present",
+                "description": ""
+            },
+            {
+                "school": "A M Jain College , Meenambakkam ",
+                "degree": "BSc Computer Science - 7.68 CGPA",
+                "graduated": "April 2019",
+                "description": ""
+            },
+            {
+                "school": "V.C.H.S.School ",
+                "degree": "HSC - 68%",
+                "graduated": "April 2016",
+                "description": ""
+            },
+            {
+                "school": "V.C.H.S.School",
+                "degree": "SSLC - 88%",
+                "graduated": "April 2014",
+                "description": ""
+            }
+        ],
+        "work": [
+            {
+                "company": "PurpleBooks",
+                "title": "Project Head",
+                "years": "October 2020 - Present",
+                "description": "An e-Com application to buying and selling a books.Front-End Development in react native.",
+                "link": "https://play.google.com/store/apps/details?id=com.purplebookspvtltd.org&hl=en_IN&gl=US",
+                "wlink": "https://www.purplebooks.in/"
+            },
+            {
+                "company": "PurpleMarts",
+                "title": "Front End Developer",
+                "years": "June 2021- Present",
+                "description": "An e-Com application",
+                "link": "https://play.google.com/store/apps/details?id=com.purplebookspvtltd.org&hl=en_IN&gl=US",
+                "wlink": "https://www.purplebmarts.com/"
+            }
+        ],
+        "skills": [
+            {
+                "name": "ReactJs",
+                "level": "75%"
+            },
+            {
+                "name": "React Native",
+                "level": "70%"
+            },
+            {
+                "name": "Django",
+                "level": "60%"
+            },
+            {
+                "name": "Python",
+                "level": "70%"
+            },
+            {
+                "name": "JAVA",
+                "level": "70%"
+            },
+            {
+                "name": "CSS",
+                "level": "80%"
+            },
+            {
+                "name": "PHP",
+                "level": "70%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "PurpleBooks",
+                "category": "ECommerece mobile and web application for buying Books",
+                "image": "1.png",
+                "url": "https://www.purplebooks.in",
+                "tools": "React Native, Django, Django Rest Framework"
+            },
+            {
+                "title": "PurpleMarts",
+                "category": "ECommerece mobile and web application for selling Books",
+                "image": "2.png",
+                "url": "http://www.purplemarts.com",
+                "tools": "ReactJS, React Native, Django Rest Framework"
+            },
+            {
+                "title": "Online Couching center",
+                "category": "Website I built for a simple online couching center for a students",
+                "image": "3.png",
+                "url": "https://github.com/Yuvaraj2111/Online-couching-center-using-Django",
+                "tools": "Python Django, Cassandra"
+            },
+            {
+                "title": "Quiz web-app with timer",
+                "category": "Quiz web application using Python Django",
+                "image": "4.png",
+                "url": "https://github.com/Yuvaraj2111/Django-Quiz-web-app-Django",
+                "tools": "Python Django"
+            },
+            {
+                "title": "Quiz web-app with Ethereum BlockChain",
+                "category": "Quiz web-application using Ethereum Blockchain,Solidity",
+                "image": "4.png",
+                "url": "https://github.com/Yuvaraj2111/Ethereum-Solidity-Project",
+                "tools": "Javascript , Solidity ,Etherurm blockchain"
+            },
+            {
+                "title": "Mr Corpo",
+                "category": "Mr Corpo is a TN corporation based application using Django",
+                "image": "5.png",
+                "url": "https://github.com/Yuvaraj2111/MR-CORPO---DJANGO-WEB-APP",
+                "tools": "Python Django and Django Rest Framework"
+            }
+        ]
+    }
+}
